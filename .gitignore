@@ -1,0 +1,29 @@
+# Ignore SQL Server Management Studio files
+*.suo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore database backup files
+*.bak
+
+# Ignore database log files
+*.ldf
+*.mdf
+
+# Ignore database diagnostic files
+*.trc
+
+# Ignore database results files
+*.rdl.data
+*.rdl.log
+
+# Ignore SQL Server files
+*.sqlproj.user
+*.publish.xml
+*.dacpac
+*.bacpac
