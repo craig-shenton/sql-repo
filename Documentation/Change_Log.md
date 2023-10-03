@@ -11,3 +11,5 @@ This document tracks changes made to SQL scripts in the repository, including mo
 | 2023-09-05 | ETL Team       | [Script_5.sql](link-to-script-5)    | Updated data import script to handle new data source.        |
 
 Please ensure that this log is updated promptly after each script change. It helps maintain transparency and keeps track of modifications made to SQL scripts over time.
+
+test
